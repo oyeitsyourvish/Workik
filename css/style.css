@@ -1,0 +1,113 @@
+
+*{
+    margin: 5px;
+    padding: 0px;
+    
+    
+}
+
+body{
+
+    background-color:gainsboro;
+}
+
+
+.container{
+    margin-top: 53px;
+    width: 38%;
+    height: 500px;
+    background-color: #4aa3f8;
+    margin-left: 39px;
+    padding: 91px;
+
+}
+
+.container h1{
+    font-size: xxx-large;
+    color: white;
+    font-family: 'Cabin', sans-serif;
+}
+
+.container p{
+    padding-top: 28px;
+    color: white;
+    font-family: 'Cabin', sans-serif;
+}
+
+i.fa {
+    margin-top: 58px;
+    color: #4aa3f8 ;
+    background-color: white;
+    display: inline-block;
+    border-radius: 60px;
+    box-shadow: 0px 0px 2px #4aa3f8;
+    padding: 0.5em 0.6em;
+  
+  }
+  
+  .searchpara {
+      width: 322px;
+      background: #4aa3f8;
+      margin-left: 60px;
+      margin-top: -62px;
+    }
+    
+    .lockicon{
+        margin-top: -41px;
+        color: #4aa3f8;
+    }
+
+
+    .container .lockicon i.fa {
+        color: #4aa3f8;
+        background-color: white;
+        display: inline-block;
+    border-radius: 60px;
+    box-shadow: 0px 0px 2px #4aa3f8;
+    padding: 0.5em 0.6em;
+    
+}
+
+    .trashpara {
+        margin-top: -63px;
+        background: #4aa3f8;
+        margin-left: 59px;
+}
+
+.seccontainer{
+    background-color: white;
+    margin-left: 790px;
+    margin-top: -687px;
+    width: 38%;
+    height: 596px;
+    padding-top: 86px;
+    padding-left: 95px;
+}
+
+.image{
+    margin-top: -55px;
+    margin-left: 512px;
+    color: #4aa3f8;
+}
+.seccontainer i.fas{
+    margin-top: 66px;
+    color: white ;
+    background-color: #4aa3f8;
+    display: inline-block;
+    border-radius: 36px;
+    box-shadow: 0px 0px 2px white;
+    padding: 15px 15px;
+
+}
+
+
+.removepara{
+    line-height: 1.6;
+    margin-left: 70px;
+    background: white;
+    font-family: 'Cabin', sans-serif;
+    margin-top: -78px;
+}
+.removepara h3{
+    margin-left: -1px;
+}
